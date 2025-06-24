@@ -24,7 +24,7 @@ RecetasApp es una aplicación para gestionar recetas de cocina. Permite a los us
 
 ### Opción 1: Descargar el APK
 
-1. [Haz clic aquí para descargar el APK](https://drive.google.com/uc?export=download&id=1eUNGF5DCOgxuLdWKSdCWJZNSOtVQ4y3_).
+1. [Haz clic aquí para descargar el APK](https://drive.google.com/uc?export=download&id=1KkMwQRQJ-LwAyTQGgufxz7PXJB8On21n).
 2. En tu dispositivo Android, habilita la instalación desde fuentes desconocidas (si aún no está habilitada).
 3. Instala el archivo APK descargado.
 
