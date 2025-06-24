@@ -45,5 +45,7 @@ Este proyecto está bajo la Licencia MIT.
 
 ## Contacto
 
-* Nombre: Alan Axel Hernández López y Angel David Lozano Rojas
+* Nombre: Alan Axel Hernández López
 * Correo electrónico: ahernandezl1709@alumno.ipn.mx
+* Nombre: Angel David Lozano Rojas
+* Correo electrónico: angeldavidangelo274@gmail.com & lozanoangel71004@gmail.com.mx
